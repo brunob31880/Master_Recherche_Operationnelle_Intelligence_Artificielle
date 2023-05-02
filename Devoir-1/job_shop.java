@@ -111,14 +111,14 @@ public class job_shop {
 	        	}
 	        }
 	        //Contraintes disjonction
-	        for (int i=0;i<n;i++) {
+	        for (int i=0;i<n-1;i++) {
 	        	for (int j=0;j<m;j++) {
 	        		int ope_i=Tab[i][j];
 	        		 for (int u=i+1;u<n;u++) {
 	     	        	for (int v=0;v<m;v++) {
 	     	        	int ope_u=Tab[u][v];
 	     	        	// Si l'on est sur la même machine soit ope_i a lieu avant ope_u soit le contraire
-	     	        	if (M[i][j]==M[u][j]) {
+	     	        	if (M[i][j]==M[u][v]) {
 	     	        		nom_modele.ifThenElse(b[ope_i][ope_u],
 	     	        				nom_modele.arithm(date_fin[ope_i], "<=", date_debut[ope_u]), 
 	     	        				nom_modele.arithm(date_fin[ope_u], "<=", date_debut[ope_i]));
