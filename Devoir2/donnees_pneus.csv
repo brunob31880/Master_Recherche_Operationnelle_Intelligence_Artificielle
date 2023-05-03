@@ -1,0 +1,82 @@
+﻿Cat de Pneu;Type de Pneu;Age en semaine;Km mensuel;Pourcentage Utilisation (%);basse vitesse(%);Moderee (%);Haute Vitesse (%);Nombre Moyen de Freinage d'urgence /j;Score de conduite
+Abimé;Hivers;24;2954;73;19;7;0;11;6
+Usure Normale;Ete;25;1910;83;12;4;0;13;5
+Usure Normale;Hivers;33;1997;88;9;2;1;15;5
+Très abimé;Hivers;39;2852;93;4;3;1;12;5
+Usure Normale;Ete;29;1988;72;22;6;0;9;5
+Usure Normale;Ete;39;2040;80;15;5;0;12;6
+Usure Normale;Ete;52;2000;79;18;3;0;14;7
+Abimé;Ete;35;2067;81;17;3;0;10;5
+Très faible usure;Ete;52;1963;73;16;8;3;13;6
+Usure Normale;Ete;36;1875;77;17;5;0;15;5
+Usure Normale;Ete;45;1934;79;16;3;1;14;7
+Usure Normale;Ete;58;2134;75;18;7;0;18;7
+Usure Normale;Hivers;53;3501;67;16;13;5;20;7
+Abimé;Hivers;32;3191;77;7;15;1;13;6
+Usure Normale;Ete;42;2047;71;20;7;2;18;7
+Usure Normale;Ete;53;2044;66;19;15;0;15;5
+Usure Normale;Ete;25;2052;61;27;12;0;15;6
+Usure Normale;Ete;35;2198;79;17;4;0;15;6
+Abimé;Ete;22;2383;89;6;3;1;15;6
+Très faible usure;Ete;22;1564;80;13;7;0;13;7
+Usure Normale;Hivers;25;2765;63;29;7;1;11;6
+Très abimé;Ete;48;2539;90;6;4;0;15;5
+Très abimé;Ete;46;3116;90;7;4;0;16;6
+Abimé;Hivers;22;4033;47;37;14;3;11;5
+Très abimé;Hivers;55;3477;67;23;9;1;18;7
+Usure Normale;Ete;24;1934;68;24;7;0;12;6
+Usure Normale;Hivers;34;2296;67;22;9;1;24;7
+Usure Normale;Hivers;53;3134;55;33;11;1;15;4
+Très faible usure;Ete;58;1986;52;39;9;0;18;8
+Abimé;Hivers;47;2932;80;7;10;3;19;6
+Très abimé;Hivers;53;4067;79;12;6;3;13;6
+Abimé;Hivers;37;3044;76;21;4;0;15;7
+Abimé;Hivers;27;2811;92;4;4;0;16;6
+Usure Normale;Ete;24;2458;71;25;4;0;9;6
+Très abimé;Hivers;22;2916;89;4;6;0;13;4
+Abimé;Ete;33;1999;76;18;5;0;12;6
+Usure Normale;Ete;22;1798;64;33;3;0;12;6
+Abimé;Hivers;37;2453;74;23;3;0;6;5
+Usure Normale;Hivers;22;2781;72;19;8;1;20;4
+Usure Normale;Hivers;21;2267;59;35;6;0;6;4
+Usure Normale;Hivers;22;2303;71;22;6;0;9;4
+Usure Normale;Hivers;30;2055;84;11;3;2;11;7
+Usure Normale;Hivers;22;2539;69;27;4;0;20;5
+Usure Normale;Hivers;23;2084;84;9;6;0;8;3
+Usure Normale;Hivers;24;2949;71;14;13;2;5;4
+Très abimé;Ete;37;3468;69;13;12;6;8;6
+Très abimé;Hivers;58;3040;82;13;5;0;7;4
+Très abimé;Ete;34;2431;85;10;5;0;9;6
+Très abimé;Ete;38;3525;84;11;5;0;11;6
+M;Ete;22;1241;83;14;2;1;15;7
+Très abimé;Ete;48;2785;84;13;3;0;26;4
+Abimé;Ete;22;2051;81;15;4;0;13;5
+Usure Normale;Ete;49;1937;78;15;5;0;9;6
+Usure Normale;Hivers;40;3451;55;37;7;0;9;6
+Abimé;Hivers;63;2419;83;13;4;0;17;5
+Usure Normale;Hivers;38;2535;76;18;6;0;13;6
+Usure Normale;Ete;54;1851;75;20;5;0;30;7
+Usure Normale;Ete;45;1740;83;15;2;0;15;6
+Usure Normale;Ete;33;2359;82;1;5;0;29;6
+Usure Normale;Ete;23;1774;89;7;4;0;20;5
+Abimé;Ete;59;2425;83;8;6;0;20;7
+Abimé;Ete;53;2249;72;22;4;0;16;7
+Usure Normale;Hivers;72;2870;45;43;11;0;19;5
+Usure Normale;Hivers;63;1946;66;29;6;0;17;6
+Abimé;Hivers;54;2532;81;15;4;0;10;6
+Usure Normale;Ete;53;2290;68;22;9;0;12;5
+Abimé;Ete;65;1825;90;6;4;0;10;6
+Usure Normale;Hivers;22;1963;68;23;6;3;9;5
+Usure Normale;Ete;24;2523;81;14;5;0;11;6
+Usure Normale;Hivers;40;2400;62;31;6;1;8;4
+Très abimé;Ete;34;2730;89;7;4;1;6;4
+Abimé;Hivers;25;3848;75;7;10;8;8;5
+Abimé;Hivers;40;3197;59;15;18;8;10;5
+Usure Normale;Ete;21;1857;72;22;5;1;10;4
+Abimé;Ete;49;2806;69;14;13;5;17;4
+Usure Normale;Ete;22;2201;65;22;9;5;16;7
+Usure Normale;Hivers;34;2142;75;21;3;0;4;4
+Usure Normale;Hivers;33;3026;70;9;9;11;19;6
+Usure Normale;Ete;49;1924;85;11;2;2;14;7
+Usure Normale;Hivers;35;2423;73;20;6;1;27;6
+Usure Normale;Ete;34;2179;78;19;2;1;10;4
